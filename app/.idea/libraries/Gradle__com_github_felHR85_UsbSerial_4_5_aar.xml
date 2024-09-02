@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.felHR85:UsbSerial:4.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/6e276248af956d11d0a036eafb46c601d63b9579/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/6e276248af956d11d0a036eafb46c601d63b9579/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
